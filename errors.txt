@@ -1,0 +1,12 @@
+[{
+	"resource": "/Users/odecapitani/Documents/Code/pretext-algebra/source/main.ptx",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": "out_of_context_element",
+	"severity": 8,
+	"message": "element \"subsubsection\" not allowed here; expected the element end-tag or element \"activity\", \"algorithm\", \"aside\", \"assemblage\", \"assumption\", \"axiom\", \"biographical\", \"blockquote\", \"claim\", \"commentary\", \"computation\", \"conjecture\", \"console\", \"convention\", \"corollary\", \"data\", \"definition\", \"example\", \"exercise\", \"exercises\", \"exploration\", \"fact\", \"figure\", \"fragment\", \"glossary\", \"heuristic\", \"historical\", \"hypothesis\", \"identity\", \"image\", \"insight\", \"investigation\", \"lemma\", \"list\", \"list-of\", \"listing\", \"note\", \"observation\", \"outcomes\", \"p\", \"paragraphs\", \"poem\", \"pre\", \"principle\", \"problem\", \"program\", \"project\", \"proof\", \"proposition\", \"question\", \"reading-questions\", \"references\", \"remark\", \"sage\", \"sbsgroup\", \"sidebyside\", \"solutions\", \"table\", \"tabular\", \"technology\", \"theorem\", \"video\" or \"warning\"",
+	"source": "xml",
+	"startLineNumber": 19,
+	"startColumn": 5,
+	"endLineNumber": 19,
+	"endColumn": 18
+}]
